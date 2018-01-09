@@ -11,7 +11,7 @@
     
         foreach( $resultado as $chave => $valor ){
             echo "$valor<br />";
-        }
+        }        
     ?>
 </body>
 </html>

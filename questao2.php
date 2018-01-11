@@ -53,7 +53,7 @@
                         
                         
                         <div class="row">
-                            <p class="text-center">Jogo 1</p>
+                            <p class="text-center">Jogo 2</p>
                             <?php for($a=1; $a <= 25; $a++){ ?>
                                 <?php
                                     if (in_array($a, $sorteados) && in_array($a, $jogo2)){ 
@@ -72,7 +72,7 @@
                         
                         
                         <div class="row">
-                            <p class="text-center">Jogo 1</p>
+                            <p class="text-center">Jogo 3</p>
                             <?php for($a=1; $a <= 25; $a++){ ?>
                                 <?php
                                     if (in_array($a, $sorteados) && in_array($a, $jogo3)){ 
